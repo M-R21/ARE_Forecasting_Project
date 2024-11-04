@@ -1,0 +1,12 @@
+data:
+  raw_data_path: "data/raw/ARE_data.tsv"
+  processed_data_path: "data/processed/ARE_data_cleaned.csv"
+
+model:
+  arima_order: [5, 1, 0]
+  lstm_units: 50
+  epochs: 100
+  batch_size: 32
+
+logging:
+  log_file: "logs/project.log"

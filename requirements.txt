@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+tensorflow
+shap
+lime
+fbprophet
+flask
+pyyaml
